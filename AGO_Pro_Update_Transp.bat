@@ -1,0 +1,1 @@
+call "C:\Program Files\ArcGIS\Pro\bin\Python\Scripts\propy" \\ycpcfs1\GIS_Projects\IS\Scripts\Python\Update_HostFeatureService\AGO_Pro_Update\AGO_Pro_Update_Transp.py
